@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalendarLibrary</string>
+
+    <!-- Calendar -->
+    <string name="sunday_text">Sun</string>
+    <string name="monday_text">Mon</string>
+    <string name="tuesday_text">Tue</string>
+    <string name="wednesday_text">Wed</string>
+    <string name="thursday_text">Thu</string>
+    <string name="friday_text">Fri</string>
+    <string name="saturday_text">Sat</string>
+    <string name="no_events">No events</string>
+</resources>
